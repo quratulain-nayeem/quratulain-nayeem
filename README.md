@@ -103,4 +103,4 @@ Designed games in Unity and mentored students through workshops.
 All projects in this GitHub are protected under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) unless stated otherwise.
 You are free to learn from and reference this work with attribution. Commercial use requires explicit permission.
 
-© 2025 Quratulain Nayeem · quratulainnayeem@gmail.com
+© 2026 Quratulain Nayeem · quratulainnayeem@gmail.com
