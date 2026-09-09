@@ -1,106 +1,110 @@
 <div align="center">
 
-# Quratulain Nayeem
+<p><samp>◈ Q / SAVE FILE · 01</samp></p>
+<h1>Quratulain Nayeem</h1>
+<p><strong>I build AI tools for the part before a decision.</strong></p>
+<p>What to watch. Where to build. Who to shortlist. How an idea becomes a system.</p>
+<p><samp>AI / ML ENGINEERING &nbsp; · &nbsp; HYDERABAD &nbsp; · &nbsp; CLASS OF 2027</samp></p>
 
-**AI/ML Engineer · LLM Systems · NLP · Agentic AI**
-
-*Building real AI products — not tutorials, not simulations.*
-
-[![Portfolio](https://portfolio-updated-rose-pi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/quratulain-nayeem)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:quratulainnayeem@gmail.com)
+<p>
+<a href="https://portfolio-updated-rose-pi.vercel.app/">[ enter portfolio ]</a> &nbsp;
+<a href="https://portfolio-updated-rose-pi.vercel.app/resume.pdf">[ read CV ]</a> &nbsp;
+<a href="https://www.linkedin.com/in/quratulain-nayeem/">[ LinkedIn ]</a> &nbsp;
+<a href="mailto:quratulainnayeem@gmail.com">[ contact ]</a>
+</p>
 
 </div>
 
----
+<hr>
 
-## About Me
+<h2>01 / Select a build</h2>
+<p><samp>CHOOSE A PROBLEM. INSPECT THE BUILD.</samp></p>
 
-I'm a Computer Science (AI & ML) student at Muffakham Jah College of Engineering and Technology, graduating 2027. I specialize in building end-to-end AI systems — from LLM-powered pipelines and agentic workflows to NLP dashboards that turn raw data into business insight.
+<table>
+<tr>
+<td width="50%" valign="top">
+<p><samp>▸ SLOT 01 / DEVELOPER TOOLS</samp></p>
+<h3>Compyl</h3>
+<p><strong>Give an idea a structure.</strong></p>
+<p>Plain English → validated UI, API, database and auth schemas. Four stages, with targeted repair for cross-layer inconsistencies.</p>
+<p><strong>Build log:</strong> 15/16 prompts passed on the first attempt in the project's evaluation; 44/46 detected errors repaired.</p>
+<p><code>FastAPI</code> <code>Pydantic</code> <code>LLaMA / Groq</code></p>
+<p><a href="https://huggingface.co/spaces/quratulainnnnn/compyl">Launch ↗</a> &nbsp; <a href="https://github.com/quratulain-nayeem/Compyl">Inspect code ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<p><samp>▸ SLOT 02 / LEARNING TOOLS</samp></p>
+<h3>WatchWorthy</h3>
+<p><strong>Before you spend 40 minutes watching.</strong></p>
+<p>A YouTube tutorial evaluator combining engagement, comment classification and transcript signals, with transcript-grounded Q&amp;A.</p>
+<p><strong>Build log:</strong> Web app and companion Chrome extension; recommendations filtered for relevance to the analyzed video.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>Transformers</code></p>
+<p><a href="https://huggingface.co/spaces/quratulainnnnn/WatchWorthy">Launch ↗</a> &nbsp; <a href="https://github.com/quratulain-nayeem/WatchWorthy">Inspect code ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<p><samp>▸ SLOT 03 / LOCAL INTELLIGENCE</samp></p>
+<h3>KhojAPI</h3>
+<p><strong>Read the neighbourhood before opening shop.</strong></p>
+<p>Turns Google Places data and customer reviews into complaint patterns, competition density and underserved price-band signals.</p>
+<p><strong>Build log:</strong> Three-agent pipeline with asynchronous jobs, pollable status and reports persisted to SQLite.</p>
+<p><code>FastAPI</code> <code>Groq</code> <code>VADER</code> <code>Docker</code></p>
+<p><a href="https://huggingface.co/spaces/quratulainnnnn/khojAPI">Launch ↗</a> &nbsp; <a href="https://github.com/quratulain-nayeem/khojAPI">Inspect code ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<p><samp>▸ SLOT 04 / RETRIEVAL &amp; RANKING</samp></p>
+<h3>Intelligent Candidate Discovery</h3>
+<p><strong>100,000 profiles. A shortlist of 100.</strong></p>
+<p>A challenge submission combining semantic retrieval with signals for skills, experience and evidence of production work.</p>
+<p><strong>Build log:</strong> Local ranking without API calls; outputs a top-100 CSV and score explanations.</p>
+<p><code>Python</code> <code>Sentence Transformers</code> <code>FAISS</code></p>
+<p><a href="https://github.com/quratulain-nayeem/Intelligent-candidate-discovery">Inspect pipeline ↗</a></p>
+</td>
+</tr>
+</table>
 
-I don't do toy projects. Everything I build is framed around a real problem with a real output someone can actually use.
+<p><strong>Also in the inventory</strong><br>
+<a href="https://github.com/quratulain-nayeem/NLP-project-">Review Intelligence</a> — 121 topics from a 10,000-review modeling sample drawn from 568,454 Amazon reviews.<br>
+<a href="https://claro-eta.vercel.app/">Claro</a> — drag-and-drop Kanban, deadlines and a monthly planner. No login required.</p>
 
----
+<h2>02 / Loadout</h2>
 
-## Featured Projects
+<p>
+<strong>Systems</strong> &nbsp; Python · FastAPI · Pydantic · Docker · SQL<br>
+<strong>Intelligence</strong> &nbsp; PyTorch · Transformers · FAISS · BERTopic · Groq<br>
+<strong>Interfaces</strong> &nbsp; React · Next.js · Streamlit<br>
+<strong>Other worlds</strong> &nbsp; Unity · C#
+</p>
 
-### 🧠 Review Intelligence — NLP Topic Modeling Pipeline
-> Turn thousands of customer reviews into instant insights
+<details>
+<summary><strong>03 / Research log</strong> — open dossiers</summary>
+<br>
+<p>B.E. Computer Science (AI &amp; ML), MJCET · 2023–2027 · CGPA 8.5.<br>
+IEEE CIS Research Head, September 2025–September 2026; mentored 10+ members in ML research methodology.</p>
+<p><strong>Manuscripts under review:</strong></p>
+<ul>
+<li>Cross-dataset intrusion detection with a hybrid Autoencoder–Transformer and SHAP explainability.</li>
+<li>Human vs. LLM-generated Sigma detection rules under adversarial evasion — solo author.</li>
+<li>LAF-YOLOv10 for small-object detection in drone imagery.</li>
+</ul>
+<p><a href="https://portfolio-updated-rose-pi.vercel.app/">Explore the research on my portfolio ↗</a></p>
+</details>
 
-End-to-end NLP system that ingests any CSV of customer reviews, automatically discovers topics using transformer embeddings + BERTopic, and generates plain-English summaries per topic. Built a full Streamlit dashboard with demo mode, upload mode, keyword search, and a "How It Works" page for technical audiences.
+<br>
 
-**Stack:** `sentence-transformers` · `BERTopic` · `UMAP` · `HDBSCAN` · `BART` · `Streamlit`
-**Data:** 568,454 Amazon Fine Food Reviews · 121 topics discovered automatically
+<details>
+<summary><strong>04 / Side quest</strong> — something is behind this door</summary>
+<br>
+<p>I also designed a first-person psychological horror game in Unity with custom puzzle mechanics, as part of my GDGC Game Dev work.</p>
+<p>Sometimes the output is a useful answer. Sometimes it is a very uncomfortable room.</p>
+<p><a href="https://github.com/quratulain-nayeem/tile-palace">A different save file: my 2D Unity platformer ↗</a></p>
+</details>
 
-[→ View Project](https://github.com/quratulain-nayeem/NLP-project-)
+<hr>
 
----
-
-### 📧 AI Job Application Agent
-> Agentic LLM system for end-to-end job application automation
-
-Takes a job description + resume, analyzes skill gaps, auto-generates resume bullets, writes cover letters and cold emails, and tracks applications in a dashboard. Full agent orchestration from input to output.
-
-**Stack:** `Python` · `LangChain` · `OpenAI API` · `FAISS` · `Streamlit`
-
----
-
-### 🎓 NCERTAI — AI Learning Assistant *(AWS Event Winner)*
-> LLM-powered study platform for Indian curriculum
-
-Built an LLM-powered platform with quizzes, flashcards, and a chatbot grounded in NCERT textbooks using embeddings + vector DB. Won at an AWS event.
-
-**Stack:** `Python` · `Embeddings` · `Vector DB` · `AWS`
-
----
-
-### 📬 Cold Email Generator
-> End-to-end GenAI pipeline using Llama 3.1
-
-Generates personalized cold emails from job descriptions and company context. Demonstrates real-world prompt engineering and GenAI system design.
-
-**Stack:** `Python` · `Llama 3.1` · `Prompt Engineering`
-
----
-
-### 🎮 Psychological Horror Game
-> First-person horror game shipped from concept to delivery
-
-Designed and built a complete first-person horror game with custom puzzles and atmosphere in Unity 3D.
-
-**Stack:** `Unity` · `C#`
-
----
-
-## Skills
-
-**AI & ML**
-`LLM Engineering` `Agentic AI` `NLP` `Prompt Engineering` `Embeddings` `Vector Databases` `RAG` `Topic Modeling` `Transformers`
-
-**Languages & Tools**
-`Python` `JavaScript` `HTML/CSS` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `LangChain` `OpenAI API` `FAISS` `Streamlit` `Unity 3D (C#)` `MySQL` `GitHub`
-
----
-
-## Experience
-
-**IEEE CIS — Research Co-Head** *(Sept 2025 – Present)*
-Leading a team toward a peer-reviewed publication. Guiding research methodology, paper structuring, and academic writing.
-
-**Horizon Research Group — Core Member** *(Sept 2024 – Sept 2025)*
-Won 2nd place in internal hackathon. Led team from ideation to demo under time pressure.
-
-**IEEE GRSS — Core Member** *(Sept 2024 – Sept 2025)*
-Organized technical workshops and university-level events with 100+ participants.
-
-**Google Developer Groups On Campus — Game Dev Core Member** *(Sept 2024 – Sept 2025)*
-Designed games in Unity and mentored students through workshops.
-
----
-
-## License
-
-All projects in this GitHub are protected under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) unless stated otherwise.
-You are free to learn from and reference this work with attribution. Commercial use requires explicit permission.
-
-© 2026 Quratulain Nayeem · quratulainnayeem@gmail.com
+<div align="center">
+<p><samp>CO-OP / START A CONVERSATION</samp></p>
+<p><strong>Working on an AI product? Send me the problem.</strong></p>
+<p><a href="mailto:quratulainnayeem@gmail.com">quratulainnayeem@gmail.com</a></p>
+<p><sub>Ask me about the pipeline. Or the puzzle mechanics.</sub></p>
+</div>
