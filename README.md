@@ -1,10 +1,11 @@
 <div align="center">
 
-<p><samp>◈ Q / SAVE FILE · 01</samp></p>
+<p><a href="https://portfolio-updated-rose-pi.vercel.app/"><img src="assets/save-file.gif" width="100%" alt="Quratulain Nayeem — AI/ML Engineer, LLM Systems and NLP — olive and pink animated save-screen banner"></a></p>
 <h1>Quratulain Nayeem</h1>
+<p><strong>AI/ML Engineer · LLM Systems · Natural Language Processing</strong></p>
 <p><strong>I build AI tools for the part before a decision.</strong></p>
 <p>What to watch. Where to build. Who to shortlist. How an idea becomes a system.</p>
-<p><samp>AI / ML ENGINEERING &nbsp; · &nbsp; HYDERABAD &nbsp; · &nbsp; CLASS OF 2027</samp></p>
+<p>Based in Hyderabad, India. B.E. Computer Science (AI &amp; ML), MJCET, graduating 2027.<br>I build multi-agent pipelines, semantic search and ranking systems, and deployed AI web applications.</p>
 
 <p>
 <a href="https://portfolio-updated-rose-pi.vercel.app/">[ enter portfolio ]</a> &nbsp;
@@ -15,24 +16,24 @@
 
 </div>
 
-<hr>
+<p><img src="assets/divider.svg" width="100%" alt=""></p>
 
-<h2>01 / Select a build</h2>
+<h2>01 / Selected AI &amp; Machine Learning Projects</h2>
 <p><samp>CHOOSE A PROBLEM. INSPECT THE BUILD.</samp></p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><samp>▸ SLOT 01 / DEVELOPER TOOLS</samp></p>
+<p><img src="assets/slot-1.svg" width="100%" alt="Slot 01: DEVELOPER TOOLS"></p>
 <h3>Compyl</h3>
 <p><strong>Give an idea a structure.</strong></p>
-<p>Plain English → validated UI, API, database and auth schemas. Four stages, with targeted repair for cross-layer inconsistencies.</p>
+<p>An LLM compiler: plain English → validated UI, API, database and auth schemas. Four stages, with targeted repair for cross-layer inconsistencies.</p>
 <p><strong>Build log:</strong> 15/16 prompts passed on the first attempt in the project's evaluation; 44/46 detected errors repaired.</p>
 <p><code>FastAPI</code> <code>Pydantic</code> <code>LLaMA / Groq</code></p>
 <p><a href="https://huggingface.co/spaces/quratulainnnnn/compyl">Launch ↗</a> &nbsp; <a href="https://github.com/quratulain-nayeem/Compyl">Inspect code ↗</a></p>
 </td>
 <td width="50%" valign="top">
-<p><samp>▸ SLOT 02 / LEARNING TOOLS</samp></p>
+<p><img src="assets/slot-2.svg" width="100%" alt="Slot 02: LEARNING TOOLS"></p>
 <h3>WatchWorthy</h3>
 <p><strong>Before you spend 40 minutes watching.</strong></p>
 <p>A YouTube tutorial evaluator combining engagement, comment classification and transcript signals, with transcript-grounded Q&amp;A.</p>
@@ -43,7 +44,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p><samp>▸ SLOT 03 / LOCAL INTELLIGENCE</samp></p>
+<p><img src="assets/slot-3.svg" width="100%" alt="Slot 03: LOCAL INTELLIGENCE"></p>
 <h3>KhojAPI</h3>
 <p><strong>Read the neighbourhood before opening shop.</strong></p>
 <p>Turns Google Places data and customer reviews into complaint patterns, competition density and underserved price-band signals.</p>
@@ -52,10 +53,10 @@
 <p><a href="https://huggingface.co/spaces/quratulainnnnn/khojAPI">Launch ↗</a> &nbsp; <a href="https://github.com/quratulain-nayeem/khojAPI">Inspect code ↗</a></p>
 </td>
 <td width="50%" valign="top">
-<p><samp>▸ SLOT 04 / RETRIEVAL &amp; RANKING</samp></p>
+<p><img src="assets/slot-4.svg" width="100%" alt="Slot 04: RETRIEVAL &amp; RANKING"></p>
 <h3>Intelligent Candidate Discovery</h3>
 <p><strong>100,000 profiles. A shortlist of 100.</strong></p>
-<p>A challenge submission combining semantic retrieval with signals for skills, experience and evidence of production work.</p>
+<p>A candidate-ranking challenge submission combining FAISS semantic retrieval with signals for skills, experience and evidence of production work.</p>
 <p><strong>Build log:</strong> Local ranking without API calls; outputs a top-100 CSV and score explanations.</p>
 <p><code>Python</code> <code>Sentence Transformers</code> <code>FAISS</code></p>
 <p><a href="https://github.com/quratulain-nayeem/Intelligent-candidate-discovery">Inspect pipeline ↗</a></p>
@@ -67,7 +68,7 @@
 <a href="https://github.com/quratulain-nayeem/NLP-project-">Review Intelligence</a> — 121 topics from a 10,000-review modeling sample drawn from 568,454 Amazon reviews.<br>
 <a href="https://claro-eta.vercel.app/">Claro</a> — drag-and-drop Kanban, deadlines and a monthly planner. No login required.</p>
 
-<h2>02 / Loadout</h2>
+<h2>02 / Technical Skills &amp; Loadout</h2>
 
 <p>
 <strong>Systems</strong> &nbsp; Python · FastAPI · Pydantic · Docker · SQL<br>
@@ -77,7 +78,7 @@
 </p>
 
 <details>
-<summary><strong>03 / Research log</strong> — open dossiers</summary>
+<summary><strong>03 / AI Research Log</strong> — open dossiers</summary>
 <br>
 <p>B.E. Computer Science (AI &amp; ML), MJCET · 2023–2027 · CGPA 8.5.<br>
 IEEE CIS Research Head, September 2025–September 2026; mentored 10+ members in ML research methodology.</p>
@@ -100,7 +101,7 @@ IEEE CIS Research Head, September 2025–September 2026; mentored 10+ members in
 <p><a href="https://github.com/quratulain-nayeem/tile-palace">A different save file: my 2D Unity platformer ↗</a></p>
 </details>
 
-<hr>
+<p><img src="assets/divider.svg" width="100%" alt=""></p>
 
 <div align="center">
 <p><samp>CO-OP / START A CONVERSATION</samp></p>
