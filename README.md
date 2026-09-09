@@ -71,10 +71,10 @@
 <h2>02 / Technical Skills &amp; Loadout</h2>
 
 <p>
-<strong>Systems</strong> &nbsp; Python · FastAPI · Pydantic · Docker · SQL<br>
-<strong>Intelligence</strong> &nbsp; PyTorch · Transformers · FAISS · BERTopic · Groq<br>
-<strong>Interfaces</strong> &nbsp; React · Next.js · Streamlit<br>
-<strong>Other worlds</strong> &nbsp; Unity · C#
+<strong>Backend</strong> &nbsp; Python · FastAPI · Pydantic · Docker · SQL<br>
+<strong>ML/AI</strong> &nbsp; PyTorch · Transformers · FAISS · BERTopic · Groq<br>
+<strong>Frontend</strong> &nbsp; React · Next.js · Streamlit<br>
+<strong>GameDev</strong> &nbsp; Unity · C#
 </p>
 
 <details>
