@@ -6,7 +6,7 @@
 
 *Building real AI products — not tutorials, not simulations.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://quratulainnayeem.vercel.app/)
+[![Portfolio](https://portfolio-updated-rose-pi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/quratulain-nayeem)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:quratulainnayeem@gmail.com)
 
